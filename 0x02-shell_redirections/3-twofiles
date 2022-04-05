@@ -1,1 +1,2 @@
-cat /etc/passwd /rtc/hosts
+#!/bin/bash
+cat /etc/passwd/ etc/hosts
